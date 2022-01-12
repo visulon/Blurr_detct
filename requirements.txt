@@ -1,5 +1,5 @@
 streamlit
 numpy
-opencv == 4.5.5
-PIL
+opencv-python
+PILLOW
 math
