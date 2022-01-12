@@ -1,0 +1,5 @@
+streamlit
+numpy == 1.22.0
+opencv == 4.5.5.62
+PIL
+math
